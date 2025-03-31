@@ -7,6 +7,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/theketan080/leetcode/tree/master/0070-climbing-stairs) |
+| [0415-add-strings](https://github.com/theketan080/leetcode/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -22,6 +23,7 @@ My LeetCode Submissions
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/theketan080/leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/theketan080/leetcode/tree/master/0520-detect-capital) |
 | [1777-determine-if-two-strings-are-close](https://github.com/theketan080/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Sorting
@@ -32,4 +34,8 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/theketan080/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/theketan080/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
