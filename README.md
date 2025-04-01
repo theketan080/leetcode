@@ -12,6 +12,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/theketan080/leetcode/tree/master/0070-climbing-stairs) |
+| [2262-solving-questions-with-brainpower](https://github.com/theketan080/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Memoization
 |  |
 | ------- |
@@ -38,4 +39,8 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/theketan080/leetcode/tree/master/0415-add-strings) |
+## Array
+|  |
+| ------- |
+| [2262-solving-questions-with-brainpower](https://github.com/theketan080/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 <!---LeetCode Topics End-->
