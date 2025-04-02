@@ -28,6 +28,7 @@ My LeetCode Submissions
 | [0415-add-strings](https://github.com/theketan080/leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/theketan080/leetcode/tree/master/0520-detect-capital) |
 | [1777-determine-if-two-strings-are-close](https://github.com/theketan080/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [3811-reverse-degree-of-a-string](https://github.com/theketan080/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/theketan080/leetcode/tree/master/0415-add-strings) |
+| [3811-reverse-degree-of-a-string](https://github.com/theketan080/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
