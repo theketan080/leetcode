@@ -45,4 +45,5 @@ My LeetCode Submissions
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theketan080/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/theketan080/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/theketan080/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 <!---LeetCode Topics End-->
