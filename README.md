@@ -52,6 +52,7 @@ My LeetCode Submissions
 | [1944-truncate-sentence](https://github.com/theketan080/leetcode/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/theketan080/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2262-solving-questions-with-brainpower](https://github.com/theketan080/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/theketan080/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/theketan080/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Two Pointers
 |  |
