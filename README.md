@@ -65,6 +65,7 @@ My LeetCode Submissions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theketan080/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/theketan080/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1656-count-good-triplets](https://github.com/theketan080/leetcode/tree/master/1656-count-good-triplets) |
 | [1944-truncate-sentence](https://github.com/theketan080/leetcode/tree/master/1944-truncate-sentence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/theketan080/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/theketan080/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -112,6 +113,7 @@ My LeetCode Submissions
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/theketan080/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/theketan080/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/theketan080/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/theketan080/leetcode/tree/master/3548-find-the-count-of-good-integers) |
