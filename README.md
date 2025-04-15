@@ -70,6 +70,7 @@ My LeetCode Submissions
 | [1993-sum-of-all-subset-xor-totals](https://github.com/theketan080/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/theketan080/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2262-solving-questions-with-brainpower](https://github.com/theketan080/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/theketan080/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/theketan080/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/theketan080/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/theketan080/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -121,4 +122,28 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/theketan080/leetcode/tree/master/2050-count-good-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/theketan080/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/theketan080/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/theketan080/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/theketan080/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/theketan080/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/theketan080/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
