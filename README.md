@@ -52,6 +52,7 @@ My LeetCode Submissions
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1777-determine-if-two-strings-are-close](https://github.com/theketan080/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/theketan080/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -75,6 +76,7 @@ My LeetCode Submissions
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/theketan080/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/theketan080/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/theketan080/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/theketan080/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/theketan080/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/theketan080/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/theketan080/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -82,6 +84,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/theketan080/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/theketan080/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +133,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/theketan080/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/theketan080/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
