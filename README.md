@@ -38,6 +38,7 @@ My LeetCode Submissions
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/theketan080/leetcode/tree/master/0038-count-and-say) |
 | [0415-add-strings](https://github.com/theketan080/leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/theketan080/leetcode/tree/master/0520-detect-capital) |
 | [1777-determine-if-two-strings-are-close](https://github.com/theketan080/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
