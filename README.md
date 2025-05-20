@@ -100,6 +100,7 @@ My LeetCode Submissions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theketan080/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/theketan080/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theketan080/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/theketan080/leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/theketan080/leetcode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/theketan080/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -170,6 +171,7 @@ My LeetCode Submissions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/theketan080/leetcode/tree/master/0136-single-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/theketan080/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
