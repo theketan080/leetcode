@@ -43,6 +43,7 @@ My LeetCode Submissions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/theketan080/leetcode/tree/master/0001-two-sum) |
 | [0797-rabbits-in-forest](https://github.com/theketan080/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/theketan080/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/theketan080/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -97,6 +98,7 @@ My LeetCode Submissions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/theketan080/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theketan080/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/theketan080/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theketan080/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
