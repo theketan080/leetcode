@@ -24,6 +24,7 @@ My LeetCode Submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/theketan080/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/theketan080/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theketan080/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -104,6 +105,7 @@ My LeetCode Submissions
 | ------- |
 | [0001-two-sum](https://github.com/theketan080/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theketan080/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/theketan080/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/theketan080/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/theketan080/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theketan080/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -212,6 +214,7 @@ My LeetCode Submissions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/theketan080/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/theketan080/leetcode/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/theketan080/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
