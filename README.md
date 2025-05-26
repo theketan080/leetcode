@@ -73,6 +73,7 @@ My LeetCode Submissions
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/theketan080/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/theketan080/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1944-truncate-sentence](https://github.com/theketan080/leetcode/tree/master/1944-truncate-sentence) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/theketan080/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/theketan080/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/theketan080/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/theketan080/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -108,6 +109,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/theketan080/leetcode/tree/master/0415-add-strings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/theketan080/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/theketan080/leetcode/tree/master/2048-build-array-from-permutation) |
 | [3811-reverse-degree-of-a-string](https://github.com/theketan080/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
@@ -174,6 +176,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/theketan080/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/theketan080/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/theketan080/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Tree
 |  |
