@@ -49,6 +49,7 @@ My LeetCode Submissions
 | [0001-two-sum](https://github.com/theketan080/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/theketan080/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/theketan080/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/theketan080/leetcode/tree/master/0242-valid-anagram) |
 | [0797-rabbits-in-forest](https://github.com/theketan080/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/theketan080/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/theketan080/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -68,6 +69,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/theketan080/leetcode/tree/master/0038-count-and-say) |
+| [0242-valid-anagram](https://github.com/theketan080/leetcode/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/theketan080/leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/theketan080/leetcode/tree/master/0520-detect-capital) |
 | [0868-push-dominoes](https://github.com/theketan080/leetcode/tree/master/0868-push-dominoes) |
@@ -91,6 +93,7 @@ My LeetCode Submissions
 | ------- |
 | [0075-sort-colors](https://github.com/theketan080/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/theketan080/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/theketan080/leetcode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1777-determine-if-two-strings-are-close](https://github.com/theketan080/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/theketan080/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
