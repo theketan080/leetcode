@@ -174,6 +174,7 @@ My LeetCode Submissions
 | [3647-zero-array-transformation-iii](https://github.com/theketan080/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/theketan080/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/theketan080/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/theketan080/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,6 +239,7 @@ My LeetCode Submissions
 | [2215-finding-3-digit-even-numbers](https://github.com/theketan080/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/theketan080/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/theketan080/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/theketan080/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -292,6 +294,7 @@ My LeetCode Submissions
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/theketan080/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/theketan080/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/theketan080/leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/theketan080/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Prefix Sum
 |  |
 | ------- |
