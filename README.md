@@ -32,6 +32,7 @@ My LeetCode Submissions
 | [0868-push-dominoes](https://github.com/theketan080/leetcode/tree/master/0868-push-dominoes) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/theketan080/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/theketan080/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/theketan080/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2262-solving-questions-with-brainpower](https://github.com/theketan080/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/theketan080/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/theketan080/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -44,6 +45,7 @@ My LeetCode Submissions
 | ------- |
 | [0070-climbing-stairs](https://github.com/theketan080/leetcode/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/theketan080/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/theketan080/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Hash Table
 |  |
 | ------- |
