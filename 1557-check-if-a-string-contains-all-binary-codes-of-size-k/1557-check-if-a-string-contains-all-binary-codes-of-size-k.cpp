@@ -3,7 +3,7 @@ public:
     bool hasAllCodes(string s, int k) {
         int n = s.length();
 
-        unordered_set<string>visited;
+        set<string>visited;
 
         int i = 0;
         while (i <= n - k) {
