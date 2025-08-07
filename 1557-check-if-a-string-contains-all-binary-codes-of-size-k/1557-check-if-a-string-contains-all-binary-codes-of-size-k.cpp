@@ -3,10 +3,6 @@ public:
     bool hasAllCodes(string s, int k) {
         int n = s.length();
 
-        if(n < k){
-            return false;
-        }
-
         unordered_set<string>visited;
 
         int i = 0;
