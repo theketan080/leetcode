@@ -6,20 +6,20 @@ public:
         int i = 0;
         int j = 0;
 
-        unordered_map<int,int>mp;
+        int zeroCount = 0;
         int maxLength = INT_MIN;
 
         while(j < n){
 
             if(nums[j] == 0){
-                mp[nums[j]]++;
+                zeroCount++;
             }
 
 
-            if(mp[nums[j]] > k){
-                while(mp[nums[j]] > k){
+            if(zeroCount > k){
+                while(zeroCount > k){
                 if(nums[i] == 0){
-                    mp[nums[i]]--;
+                    zeroCount--;
                 }
                 i++;
 
