@@ -69,6 +69,7 @@ My LeetCode Submissions
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/theketan080/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2479-meeting-rooms-iii](https://github.com/theketan080/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/theketan080/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/theketan080/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/theketan080/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/theketan080/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/theketan080/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -179,6 +180,7 @@ My LeetCode Submissions
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/theketan080/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/theketan080/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/theketan080/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/theketan080/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/theketan080/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/theketan080/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/theketan080/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -206,6 +208,7 @@ My LeetCode Submissions
 | [2128-reverse-prefix-of-word](https://github.com/theketan080/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/theketan080/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/theketan080/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/theketan080/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Stack
 |  |
 | ------- |
