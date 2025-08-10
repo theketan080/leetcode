@@ -15,7 +15,7 @@ public:
         
         int k  = 0;
 
-        for(auto i:mp){
+        for(auto &i:mp){
             while(i.second > 0){
                 nums1[k] = i.first;
                 i.second--;
