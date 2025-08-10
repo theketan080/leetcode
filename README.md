@@ -136,6 +136,7 @@ My LeetCode Submissions
 | [0415-add-strings](https://github.com/theketan080/leetcode/tree/master/0415-add-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/theketan080/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/theketan080/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/theketan080/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2479-meeting-rooms-iii](https://github.com/theketan080/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3811-reverse-degree-of-a-string](https://github.com/theketan080/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
@@ -174,6 +175,7 @@ My LeetCode Submissions
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/theketan080/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/theketan080/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/theketan080/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/theketan080/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/theketan080/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/theketan080/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/theketan080/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -209,6 +211,7 @@ My LeetCode Submissions
 | [0567-permutation-in-string](https://github.com/theketan080/leetcode/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/theketan080/leetcode/tree/master/0868-push-dominoes) |
 | [2128-reverse-prefix-of-word](https://github.com/theketan080/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/theketan080/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/theketan080/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/theketan080/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/theketan080/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
