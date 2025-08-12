@@ -97,6 +97,7 @@ My LeetCode Submissions
 | [2128-reverse-prefix-of-word](https://github.com/theketan080/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/theketan080/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/theketan080/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/theketan080/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/theketan080/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/theketan080/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/theketan080/leetcode/tree/master/3194-find-words-containing-character) |
@@ -188,6 +189,7 @@ My LeetCode Submissions
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/theketan080/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/theketan080/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/theketan080/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/theketan080/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/theketan080/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/theketan080/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/theketan080/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -351,6 +353,7 @@ My LeetCode Submissions
 | [1046-max-consecutive-ones-iii](https://github.com/theketan080/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2249-count-the-hidden-sequences](https://github.com/theketan080/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/theketan080/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/theketan080/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/theketan080/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/theketan080/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/theketan080/leetcode/tree/master/3647-zero-array-transformation-iii) |
