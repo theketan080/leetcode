@@ -172,6 +172,7 @@ My LeetCode Submissions
 | [0945-snakes-and-ladders](https://github.com/theketan080/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/theketan080/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/theketan080/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1138-grumpy-bookstore-owner](https://github.com/theketan080/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/theketan080/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/theketan080/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/theketan080/leetcode/tree/master/1656-count-good-triplets) |
@@ -342,6 +343,7 @@ My LeetCode Submissions
 | [0567-permutation-in-string](https://github.com/theketan080/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/theketan080/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/theketan080/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1138-grumpy-bookstore-owner](https://github.com/theketan080/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/theketan080/leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/theketan080/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-k-radius-subarray-averages](https://github.com/theketan080/leetcode/tree/master/2211-k-radius-subarray-averages) |
