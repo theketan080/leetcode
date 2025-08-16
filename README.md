@@ -57,6 +57,7 @@ My LeetCode Submissions
 | [0169-majority-element](https://github.com/theketan080/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/theketan080/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/theketan080/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/theketan080/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/theketan080/leetcode/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/theketan080/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/theketan080/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -86,6 +87,7 @@ My LeetCode Submissions
 | [0242-valid-anagram](https://github.com/theketan080/leetcode/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/theketan080/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/theketan080/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/theketan080/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/theketan080/leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/theketan080/leetcode/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/theketan080/leetcode/tree/master/0868-push-dominoes) |
@@ -343,6 +345,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/theketan080/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/theketan080/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/theketan080/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/theketan080/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/theketan080/leetcode/tree/master/1046-max-consecutive-ones-iii) |
