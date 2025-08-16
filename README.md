@@ -67,6 +67,7 @@ My LeetCode Submissions
 | [1777-determine-if-two-strings-are-close](https://github.com/theketan080/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/theketan080/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/theketan080/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/theketan080/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2215-finding-3-digit-even-numbers](https://github.com/theketan080/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/theketan080/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2479-meeting-rooms-iii](https://github.com/theketan080/leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -95,6 +96,7 @@ My LeetCode Submissions
 | [1777-determine-if-two-strings-are-close](https://github.com/theketan080/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1944-truncate-sentence](https://github.com/theketan080/leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/theketan080/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/theketan080/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/theketan080/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/theketan080/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/theketan080/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -135,6 +137,7 @@ My LeetCode Submissions
 | [1777-determine-if-two-strings-are-close](https://github.com/theketan080/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1983-maximum-population-year](https://github.com/theketan080/leetcode/tree/master/1983-maximum-population-year) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/theketan080/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/theketan080/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/theketan080/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/theketan080/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
@@ -346,6 +349,7 @@ My LeetCode Submissions
 | [1138-grumpy-bookstore-owner](https://github.com/theketan080/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/theketan080/leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/theketan080/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/theketan080/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2211-k-radius-subarray-averages](https://github.com/theketan080/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/theketan080/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/theketan080/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
