@@ -72,6 +72,7 @@ My LeetCode Submissions
 | [2215-finding-3-digit-even-numbers](https://github.com/theketan080/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/theketan080/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2479-meeting-rooms-iii](https://github.com/theketan080/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/theketan080/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/theketan080/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/theketan080/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/theketan080/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -204,6 +205,7 @@ My LeetCode Submissions
 | [2479-meeting-rooms-iii](https://github.com/theketan080/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/theketan080/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/theketan080/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/theketan080/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/theketan080/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/theketan080/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/theketan080/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -358,6 +360,7 @@ My LeetCode Submissions
 | [2211-k-radius-subarray-averages](https://github.com/theketan080/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/theketan080/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/theketan080/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/theketan080/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/theketan080/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/theketan080/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/theketan080/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
