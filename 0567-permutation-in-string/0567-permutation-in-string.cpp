@@ -1,31 +1,40 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-
         int n1 = s1.length();
         int n2 = s2.length();
 
-        unordered_map<char,int>mp;
-        unordered_map<char,int>cp;
+        int i = 0;
+        int j = 0;
 
-        for(auto &i:s1){
-            mp[i]++;
+        unordered_map<char,int>mp1;
+        unordered_map<char,int>mp2;
+
+        for(auto &it:s1){
+            mp1[it]++;
         }
 
-        for(int i = 0; i < n2; i++){
-            string sub = s2.substr(i,n1);
+        while(j < n2){
+            mp2[s2[j]]++;
 
-            for(auto &it:sub){
-                cp[it]++;
+            if(j-i+1 > n1){
+                mp2[s2[i]]--;
+                if(mp2[s2[i]] == 0){
+                    mp2.erase(s2[i]);
+                }
+                i++;
             }
 
-            if(mp == cp){
-                return true;
-            }else{
-                cp.clear();
+            if(j-i+1 == n1){
+                if(mp1 == mp2){
+                    return true;
+                }
             }
+
+            j++;
         }
 
         return false;
+
     }
 };
