@@ -75,6 +75,7 @@ My LeetCode Submissions
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/theketan080/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/theketan080/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/theketan080/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2751-sliding-subarray-beauty](https://github.com/theketan080/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/theketan080/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/theketan080/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/theketan080/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -211,6 +212,7 @@ My LeetCode Submissions
 | [2691-count-vowel-strings-in-ranges](https://github.com/theketan080/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/theketan080/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/theketan080/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2751-sliding-subarray-beauty](https://github.com/theketan080/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/theketan080/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/theketan080/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/theketan080/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -364,6 +366,7 @@ My LeetCode Submissions
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/theketan080/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/theketan080/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/theketan080/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2751-sliding-subarray-beauty](https://github.com/theketan080/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/theketan080/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/theketan080/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/theketan080/leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
