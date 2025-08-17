@@ -2,8 +2,7 @@ class Solution {
 public:
     int minAddToMakeValid(string s) {
         int n = s.length();
-
-        stack<char>st;
+        
         int pair = 0;
         int req = 0;
 
