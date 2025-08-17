@@ -85,6 +85,7 @@ My LeetCode Submissions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/theketan080/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/theketan080/leetcode/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/theketan080/leetcode/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/theketan080/leetcode/tree/master/0415-add-strings) |
@@ -249,6 +250,7 @@ My LeetCode Submissions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/theketan080/leetcode/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/theketan080/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/theketan080/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/theketan080/leetcode/tree/master/2128-reverse-prefix-of-word) |
