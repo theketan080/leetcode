@@ -6,7 +6,6 @@ public:
         stack<int> st;             
 
         for (int i = 0; i < n; i++) {
-          
             while (!st.empty() && prices[st.top()] >= prices[i]) {
                 int id = st.top();
                 st.pop();
