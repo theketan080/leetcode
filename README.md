@@ -254,6 +254,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/theketan080/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/theketan080/leetcode/tree/master/0155-min-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/theketan080/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/theketan080/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/theketan080/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -463,6 +464,7 @@ My LeetCode Submissions
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/theketan080/leetcode/tree/master/0155-min-stack) |
 | [0729-my-calendar-i](https://github.com/theketan080/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/theketan080/leetcode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
