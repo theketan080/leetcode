@@ -58,6 +58,7 @@ My LeetCode Submissions
 | [0242-valid-anagram](https://github.com/theketan080/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/theketan080/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/theketan080/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/theketan080/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/theketan080/leetcode/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/theketan080/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/theketan080/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -175,6 +176,7 @@ My LeetCode Submissions
 | [0283-move-zeroes](https://github.com/theketan080/leetcode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/theketan080/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/theketan080/leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/theketan080/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/theketan080/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/theketan080/leetcode/tree/master/0731-my-calendar-ii) |
@@ -256,6 +258,7 @@ My LeetCode Submissions
 | ------- |
 | [0020-valid-parentheses](https://github.com/theketan080/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/theketan080/leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/theketan080/leetcode/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/theketan080/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/theketan080/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/theketan080/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -472,5 +475,6 @@ My LeetCode Submissions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/theketan080/leetcode/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/theketan080/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
