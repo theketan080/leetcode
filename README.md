@@ -180,6 +180,7 @@ My LeetCode Submissions
 | [0643-maximum-average-subarray-i](https://github.com/theketan080/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/theketan080/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/theketan080/leetcode/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/theketan080/leetcode/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/theketan080/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/theketan080/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0945-snakes-and-ladders](https://github.com/theketan080/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -259,6 +260,7 @@ My LeetCode Submissions
 | [0020-valid-parentheses](https://github.com/theketan080/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/theketan080/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/theketan080/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/theketan080/leetcode/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/theketan080/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/theketan080/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/theketan080/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -476,5 +478,6 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/theketan080/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/theketan080/leetcode/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/theketan080/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
