@@ -301,6 +301,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/theketan080/leetcode/tree/master/0136-single-number) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/theketan080/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/theketan080/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/theketan080/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
