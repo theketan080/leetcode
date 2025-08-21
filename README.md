@@ -301,6 +301,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/theketan080/leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/theketan080/leetcode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/theketan080/leetcode/tree/master/0476-number-complement) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/theketan080/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/theketan080/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -344,6 +345,7 @@ My LeetCode Submissions
 | [0004-median-of-two-sorted-arrays](https://github.com/theketan080/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/theketan080/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/theketan080/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/theketan080/leetcode/tree/master/0191-number-of-1-bits) |
 | [2280-count-good-triplets-in-an-array](https://github.com/theketan080/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
