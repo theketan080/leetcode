@@ -9,8 +9,8 @@ public:
             int zeroCount = 0;
             int oneCount = 0;
             for(int j = 0; j < n; j++){
-                if((nums[j] & (1<<i))==0)zeroCount++;
-                else oneCount++;
+                if(nums[j] & (1<<i)==0)zeroCount++;
+                if(nums[j] & (1<<i))oneCount++;
             }
 
             if(oneCount % 3){
