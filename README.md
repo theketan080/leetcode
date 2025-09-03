@@ -17,6 +17,7 @@ My LeetCode Submissions
 | [1500-count-largest-group](https://github.com/theketan080/leetcode/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/theketan080/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/theketan080/leetcode/tree/master/2050-count-good-numbers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/theketan080/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/theketan080/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/theketan080/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/theketan080/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -202,6 +203,7 @@ My LeetCode Submissions
 | [1983-maximum-population-year](https://github.com/theketan080/leetcode/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/theketan080/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/theketan080/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/theketan080/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/theketan080/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/theketan080/leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2211-k-radius-subarray-averages](https://github.com/theketan080/leetcode/tree/master/2211-k-radius-subarray-averages) |
@@ -427,6 +429,7 @@ My LeetCode Submissions
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/theketan080/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/theketan080/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Queue
 |  |
