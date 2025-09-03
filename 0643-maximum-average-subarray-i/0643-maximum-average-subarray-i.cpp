@@ -3,27 +3,26 @@ public:
     double findMaxAverage(vector<int>& nums, int k) {
         long long sum = 0;
         
-        // take sum of first k elements
+        //subarray length is equal to k
         for(int i = 0; i < k; i++){
             sum += nums[i];
         }
 
         double avg = (double)sum / k;
         double maxAvg = avg;
-
+        //max avg value 
         int i = 0;
         int j = k;
         while(j < nums.size()){
             sum += nums[j];
 
-            if(j - i + 1 > k){     // ✅ shrink if window exceeds k
+            if(j-i+1 > k){
                 sum -= nums[i];
                 i++;
             }
-
-            if(j - i + 1 == k){    // ✅ window is exactly k
-                avg = (double)sum / k;
-                maxAvg = max(maxAvg, avg);
+            if(j-i+1 == k){
+                avg = (double)sum/k;
+                maxAvg = max(maxAvg,avg);
             }
 
             j++;
