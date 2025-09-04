@@ -25,8 +25,8 @@ public:
 
             if (j - i + 1 == k) {
                 avg = sum / k;
-            }
             maxAvg = max(maxAvg, avg);
+            }
 
             j++;
         }
