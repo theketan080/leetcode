@@ -176,6 +176,7 @@ My LeetCode Submissions
 | [0137-single-number-ii](https://github.com/theketan080/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/theketan080/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/theketan080/leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/theketan080/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/theketan080/leetcode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/theketan080/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -337,6 +338,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/theketan080/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/theketan080/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0729-my-calendar-i](https://github.com/theketan080/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/theketan080/leetcode/tree/master/0731-my-calendar-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/theketan080/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -377,6 +379,7 @@ My LeetCode Submissions
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/theketan080/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/theketan080/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/theketan080/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/theketan080/leetcode/tree/master/0567-permutation-in-string) |
@@ -415,6 +418,7 @@ My LeetCode Submissions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/theketan080/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/theketan080/leetcode/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/theketan080/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/theketan080/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
