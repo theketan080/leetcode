@@ -3,23 +3,15 @@ public:
     bool hasAllCodes(string s, int k) {
         int n = s.length();
 
-        long long power = 0;
-
-        power = pow(2,k);
-
-        unordered_set<string>st;
-
+        unordered_map<string,int>mp;
+        if(n < k) return false;
         int i = 0;
 
-        while(i <= n-k){
-            string sub = s.substr(i,k);
-            st.insert(sub);
-
-            if(st.size() == power){
-                return true;
-            }
-            i++;
+        for(int i = 0; i <= n-k; i++){
+            mp[s.substr(i,k)]++;
         }
+
+        if(mp.size() == pow(2,k)) return true;
 
         return false;
     }
