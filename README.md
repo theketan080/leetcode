@@ -6,6 +6,7 @@ My LeetCode Submissions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/theketan080/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/theketan080/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/theketan080/leetcode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -337,6 +338,7 @@ My LeetCode Submissions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/theketan080/leetcode/tree/master/0002-add-two-numbers) |
 | [2050-count-good-numbers](https://github.com/theketan080/leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
@@ -480,6 +482,7 @@ My LeetCode Submissions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/theketan080/leetcode/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/theketan080/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Rolling Hash
 |  |
