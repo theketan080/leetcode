@@ -7,6 +7,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/theketan080/leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/theketan080/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/theketan080/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/theketan080/leetcode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -172,6 +173,7 @@ My LeetCode Submissions
 | [0004-median-of-two-sorted-arrays](https://github.com/theketan080/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theketan080/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/theketan080/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/theketan080/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/theketan080/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/theketan080/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/theketan080/leetcode/tree/master/0088-merge-sorted-array) |
