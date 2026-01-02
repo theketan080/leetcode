@@ -67,6 +67,7 @@ My LeetCode Submissions
 | [0496-next-greater-element-i](https://github.com/theketan080/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/theketan080/leetcode/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/theketan080/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/theketan080/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/theketan080/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/theketan080/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/theketan080/leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -196,6 +197,7 @@ My LeetCode Submissions
 | [0830-largest-triangle-area](https://github.com/theketan080/leetcode/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/theketan080/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0945-snakes-and-ladders](https://github.com/theketan080/leetcode/tree/master/0945-snakes-and-ladders) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/theketan080/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/theketan080/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/theketan080/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1138-grumpy-bookstore-owner](https://github.com/theketan080/leetcode/tree/master/1138-grumpy-bookstore-owner) |
