@@ -37,6 +37,7 @@ My LeetCode Submissions
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/theketan080/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/theketan080/leetcode/tree/master/0868-push-dominoes) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/theketan080/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/theketan080/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/theketan080/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/theketan080/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -204,6 +205,7 @@ My LeetCode Submissions
 | [1227-number-of-equivalent-domino-pairs](https://github.com/theketan080/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/theketan080/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/theketan080/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/theketan080/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/theketan080/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/theketan080/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1656-count-good-triplets](https://github.com/theketan080/leetcode/tree/master/1656-count-good-triplets) |
