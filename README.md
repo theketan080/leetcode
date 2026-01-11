@@ -33,6 +33,7 @@ My LeetCode Submissions
 | ------- |
 | [0053-maximum-subarray](https://github.com/theketan080/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/theketan080/leetcode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/theketan080/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theketan080/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/theketan080/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -180,6 +181,7 @@ My LeetCode Submissions
 | [0066-plus-one](https://github.com/theketan080/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/theketan080/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/theketan080/leetcode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/theketan080/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/theketan080/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theketan080/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/theketan080/leetcode/tree/master/0136-single-number) |
@@ -277,6 +279,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/theketan080/leetcode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/theketan080/leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/theketan080/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/theketan080/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/theketan080/leetcode/tree/master/0739-daily-temperatures) |
@@ -477,6 +480,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/theketan080/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/theketan080/leetcode/tree/master/0085-maximal-rectangle) |
 | [0945-snakes-and-ladders](https://github.com/theketan080/leetcode/tree/master/0945-snakes-and-ladders) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/theketan080/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
@@ -509,6 +513,7 @@ My LeetCode Submissions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/theketan080/leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/theketan080/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/theketan080/leetcode/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/theketan080/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
