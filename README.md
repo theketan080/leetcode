@@ -254,6 +254,7 @@ My LeetCode Submissions
 | [3194-find-words-containing-character](https://github.com/theketan080/leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/theketan080/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/theketan080/leetcode/tree/master/3321-type-of-triangle) |
+| [3454-separate-squares-ii](https://github.com/theketan080/leetcode/tree/master/3454-separate-squares-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/theketan080/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/theketan080/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/theketan080/leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -367,6 +368,7 @@ My LeetCode Submissions
 | [2280-count-good-triplets-in-an-array](https://github.com/theketan080/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/theketan080/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/theketan080/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3454-separate-squares-ii](https://github.com/theketan080/leetcode/tree/master/3454-separate-squares-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -385,6 +387,7 @@ My LeetCode Submissions
 | [0729-my-calendar-i](https://github.com/theketan080/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/theketan080/leetcode/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/theketan080/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3454-separate-squares-ii](https://github.com/theketan080/leetcode/tree/master/3454-separate-squares-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -524,4 +527,8 @@ My LeetCode Submissions
 | ------- |
 | [0830-largest-triangle-area](https://github.com/theketan080/leetcode/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/theketan080/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/theketan080/leetcode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
