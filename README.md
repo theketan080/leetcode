@@ -149,6 +149,7 @@ My LeetCode Submissions
 | [2479-meeting-rooms-iii](https://github.com/theketan080/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/theketan080/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/theketan080/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/theketan080/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3321-type-of-triangle](https://github.com/theketan080/leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/theketan080/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
@@ -246,6 +247,7 @@ My LeetCode Submissions
 | [2751-sliding-subarray-beauty](https://github.com/theketan080/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/theketan080/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/theketan080/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/theketan080/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/theketan080/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/theketan080/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/theketan080/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
