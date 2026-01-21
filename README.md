@@ -259,6 +259,7 @@ My LeetCode Submissions
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/theketan080/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/theketan080/leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/theketan080/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/theketan080/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/theketan080/leetcode/tree/master/3321-type-of-triangle) |
 | [3454-separate-squares-ii](https://github.com/theketan080/leetcode/tree/master/3454-separate-squares-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/theketan080/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -339,6 +340,7 @@ My LeetCode Submissions
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/theketan080/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/theketan080/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/theketan080/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/theketan080/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Combinatorics
 |  |
 | ------- |
