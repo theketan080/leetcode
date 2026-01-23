@@ -92,6 +92,7 @@ My LeetCode Submissions
 | [2856-count-complete-subarrays-in-an-array](https://github.com/theketan080/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/theketan080/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/theketan080/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/theketan080/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/theketan080/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/theketan080/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/theketan080/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -173,6 +174,7 @@ My LeetCode Submissions
 | [2228-watering-plants-ii](https://github.com/theketan080/leetcode/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/theketan080/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2479-meeting-rooms-iii](https://github.com/theketan080/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/theketan080/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/theketan080/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -262,6 +264,7 @@ My LeetCode Submissions
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/theketan080/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/theketan080/leetcode/tree/master/3321-type-of-triangle) |
 | [3454-separate-squares-ii](https://github.com/theketan080/leetcode/tree/master/3454-separate-squares-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/theketan080/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/theketan080/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/theketan080/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/theketan080/leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -407,6 +410,7 @@ My LeetCode Submissions
 | [0729-my-calendar-i](https://github.com/theketan080/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/theketan080/leetcode/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/theketan080/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/theketan080/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -490,6 +494,7 @@ My LeetCode Submissions
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/theketan080/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/theketan080/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/theketan080/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/theketan080/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/theketan080/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
@@ -514,6 +519,7 @@ My LeetCode Submissions
 | ------- |
 | [0002-add-two-numbers](https://github.com/theketan080/leetcode/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/theketan080/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/theketan080/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -545,4 +551,8 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/theketan080/leetcode/tree/master/3454-separate-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/theketan080/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
