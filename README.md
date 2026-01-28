@@ -53,6 +53,7 @@ My LeetCode Submissions
 | [3243-count-the-number-of-powerful-integers](https://github.com/theketan080/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/theketan080/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/theketan080/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/theketan080/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Memoization
 |  |
 | ------- |
@@ -268,6 +269,7 @@ My LeetCode Submissions
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/theketan080/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/theketan080/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/theketan080/leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/theketan080/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/theketan080/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/theketan080/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/theketan080/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -506,6 +508,7 @@ My LeetCode Submissions
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/theketan080/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/theketan080/leetcode/tree/master/1895-largest-magic-square) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/theketan080/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/theketan080/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Shortest Path
 |  |
 | ------- |
