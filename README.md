@@ -171,6 +171,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/theketan080/leetcode/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/theketan080/leetcode/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/theketan080/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/theketan080/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2228-watering-plants-ii](https://github.com/theketan080/leetcode/tree/master/2228-watering-plants-ii) |
@@ -226,6 +227,7 @@ My LeetCode Submissions
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/theketan080/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/theketan080/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/theketan080/leetcode/tree/master/1895-largest-magic-square) |
+| [1929-concatenation-of-array](https://github.com/theketan080/leetcode/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/theketan080/leetcode/tree/master/1944-truncate-sentence) |
 | [1983-maximum-population-year](https://github.com/theketan080/leetcode/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/theketan080/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
