@@ -219,6 +219,7 @@ My LeetCode Submissions
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/theketan080/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/theketan080/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/theketan080/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1480-running-sum-of-1d-array](https://github.com/theketan080/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/theketan080/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/theketan080/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1656-count-good-triplets](https://github.com/theketan080/leetcode/tree/master/1656-count-good-triplets) |
@@ -463,6 +464,7 @@ My LeetCode Submissions
 | [0731-my-calendar-ii](https://github.com/theketan080/leetcode/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/theketan080/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/theketan080/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/theketan080/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/theketan080/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1895-largest-magic-square](https://github.com/theketan080/leetcode/tree/master/1895-largest-magic-square) |
 | [1983-maximum-population-year](https://github.com/theketan080/leetcode/tree/master/1983-maximum-population-year) |
