@@ -8,6 +8,7 @@ My LeetCode Submissions
 | ------- |
 | [0002-add-two-numbers](https://github.com/theketan080/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/theketan080/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/theketan080/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/theketan080/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/theketan080/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/theketan080/leetcode/tree/master/0231-power-of-two) |
@@ -379,6 +380,7 @@ My LeetCode Submissions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/theketan080/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/theketan080/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/theketan080/leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/theketan080/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0729-my-calendar-i](https://github.com/theketan080/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/theketan080/leetcode/tree/master/0731-my-calendar-ii) |
