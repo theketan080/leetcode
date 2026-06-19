@@ -207,6 +207,7 @@ My LeetCode Submissions
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/theketan080/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0477-total-hamming-distance](https://github.com/theketan080/leetcode/tree/master/0477-total-hamming-distance) |
+| [0485-max-consecutive-ones](https://github.com/theketan080/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/theketan080/leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/theketan080/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/theketan080/leetcode/tree/master/0729-my-calendar-i) |
