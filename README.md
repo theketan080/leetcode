@@ -171,6 +171,7 @@ My LeetCode Submissions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/theketan080/leetcode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/theketan080/leetcode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/theketan080/leetcode/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/theketan080/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -189,6 +190,7 @@ My LeetCode Submissions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/theketan080/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/theketan080/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/theketan080/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/theketan080/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/theketan080/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/theketan080/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/theketan080/leetcode/tree/master/0075-sort-colors) |
@@ -518,6 +520,7 @@ My LeetCode Submissions
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/theketan080/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/theketan080/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/theketan080/leetcode/tree/master/0085-maximal-rectangle) |
 | [0945-snakes-and-ladders](https://github.com/theketan080/leetcode/tree/master/0945-snakes-and-ladders) |
