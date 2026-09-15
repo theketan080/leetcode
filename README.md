@@ -11,6 +11,7 @@ My LeetCode Submissions
 | [0069-sqrtx](https://github.com/theketan080/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/theketan080/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/theketan080/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/theketan080/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/theketan080/leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/theketan080/leetcode/tree/master/0415-add-strings) |
@@ -206,6 +207,7 @@ My LeetCode Submissions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/theketan080/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/theketan080/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/theketan080/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/theketan080/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/theketan080/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/theketan080/leetcode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -377,6 +379,7 @@ My LeetCode Submissions
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/theketan080/leetcode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/theketan080/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/theketan080/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/theketan080/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -503,6 +506,7 @@ My LeetCode Submissions
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/theketan080/leetcode/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/theketan080/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/theketan080/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Queue
@@ -589,4 +593,16 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/theketan080/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/theketan080/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/theketan080/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/theketan080/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
