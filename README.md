@@ -607,4 +607,12 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/theketan080/leetcode/tree/master/0204-count-primes) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/theketan080/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/theketan080/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
