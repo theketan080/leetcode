@@ -217,6 +217,7 @@ My LeetCode Submissions
 | [0209-minimum-size-subarray-sum](https://github.com/theketan080/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/theketan080/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/theketan080/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/theketan080/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/theketan080/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0477-total-hamming-distance](https://github.com/theketan080/leetcode/tree/master/0477-total-hamming-distance) |
@@ -309,6 +310,7 @@ My LeetCode Submissions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/theketan080/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/theketan080/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/theketan080/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/theketan080/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/theketan080/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/theketan080/leetcode/tree/master/0647-palindromic-substrings) |
 | [0868-push-dominoes](https://github.com/theketan080/leetcode/tree/master/0868-push-dominoes) |
@@ -373,6 +375,7 @@ My LeetCode Submissions
 | [0191-number-of-1-bits](https://github.com/theketan080/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/theketan080/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/theketan080/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/theketan080/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/theketan080/leetcode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/theketan080/leetcode/tree/master/0477-total-hamming-distance) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/theketan080/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -413,6 +416,7 @@ My LeetCode Submissions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/theketan080/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/theketan080/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/theketan080/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/theketan080/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0729-my-calendar-i](https://github.com/theketan080/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/theketan080/leetcode/tree/master/0731-my-calendar-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/theketan080/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -628,4 +632,12 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/theketan080/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/theketan080/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/theketan080/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
