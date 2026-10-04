@@ -13,6 +13,7 @@ My LeetCode Submissions
 | [0189-rotate-array](https://github.com/theketan080/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/theketan080/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/theketan080/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/theketan080/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/theketan080/leetcode/tree/master/0415-add-strings) |
 | [0477-total-hamming-distance](https://github.com/theketan080/leetcode/tree/master/0477-total-hamming-distance) |
@@ -73,6 +74,7 @@ My LeetCode Submissions
 | [0073-set-matrix-zeroes](https://github.com/theketan080/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/theketan080/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/theketan080/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/theketan080/leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/theketan080/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/theketan080/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/theketan080/leetcode/tree/master/0496-next-greater-element-i) |
@@ -152,6 +154,7 @@ My LeetCode Submissions
 | [0088-merge-sorted-array](https://github.com/theketan080/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/theketan080/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/theketan080/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/theketan080/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1777-determine-if-two-strings-are-close](https://github.com/theketan080/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/theketan080/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -212,6 +215,7 @@ My LeetCode Submissions
 | [0198-house-robber](https://github.com/theketan080/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/theketan080/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/theketan080/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/theketan080/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/theketan080/leetcode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/theketan080/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/theketan080/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -368,6 +372,7 @@ My LeetCode Submissions
 | [0137-single-number-ii](https://github.com/theketan080/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/theketan080/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/theketan080/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/theketan080/leetcode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/theketan080/leetcode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/theketan080/leetcode/tree/master/0477-total-hamming-distance) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/theketan080/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -407,6 +412,7 @@ My LeetCode Submissions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/theketan080/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/theketan080/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/theketan080/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/theketan080/leetcode/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/theketan080/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/theketan080/leetcode/tree/master/0731-my-calendar-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/theketan080/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
