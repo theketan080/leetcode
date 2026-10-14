@@ -111,6 +111,7 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/theketan080/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/theketan080/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/theketan080/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/theketan080/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/theketan080/leetcode/tree/master/0049-group-anagrams) |
@@ -205,6 +206,7 @@ My LeetCode Submissions
 | ------- |
 | [0001-two-sum](https://github.com/theketan080/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/theketan080/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/theketan080/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theketan080/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/theketan080/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/theketan080/leetcode/tree/master/0035-search-insert-position) |
@@ -657,4 +659,8 @@ My LeetCode Submissions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/theketan080/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/theketan080/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
