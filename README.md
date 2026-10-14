@@ -130,6 +130,7 @@ My LeetCode Submissions
 | [0868-push-dominoes](https://github.com/theketan080/leetcode/tree/master/0868-push-dominoes) |
 | [0917-reverse-only-letters](https://github.com/theketan080/leetcode/tree/master/0917-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/theketan080/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/theketan080/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/theketan080/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/theketan080/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/theketan080/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -350,6 +351,7 @@ My LeetCode Submissions
 | [0496-next-greater-element-i](https://github.com/theketan080/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/theketan080/leetcode/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/theketan080/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/theketan080/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/theketan080/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/theketan080/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/theketan080/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
